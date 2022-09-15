@@ -1,0 +1,22 @@
+body{
+    color:maroon;
+    background:burlywood;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border:2px dashed maroon;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects{
+    color:mediumvioletred;
+}
+#result_object_name{
+    color:midnightblue;
+}
+#result_object_accuracy{
+    color: mediumorchid;
+}
